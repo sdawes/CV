@@ -41,8 +41,7 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 
 <a name="history"><a>
 ### **CAREER HISTORY**
-###### Royal Air Force | 2000 - 2016
-###### (5 most recent positions)
+###### Royal Air Force | 2000 - 2016 (5 most recent positions)
 | Job Title | Location |
 |------|-------------|
 |Aircraft Planner and Scheduler|Defence Chain Operations and Movements, MOD Abbey Wood
