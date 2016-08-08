@@ -33,4 +33,20 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 * Reviewed procedures for scheduling transport aircraft and re-designed the process required to book aircraft into airports. Persuaded my team to implement the new procedures, resulting in a near 25% reduction in the work required.
 
 #### OPERATIONS MANAGEMENT
-* Volunteered to re-plan the entirety of the Defence Logistics flying programme at short notice, following an immediate request to operate all aircraft flying into Afghanistan and Iraq during night time hours. This complex task required engagement with operational squadrons and HQs, to allocate air assets, calculate crew duty hours and solve airport deconfliction issues. The programme was delivered successfully resulting in minimum disruption to Defence.  
+* Volunteered to re-plan the entirety of the Defence Logistics flying programme at short notice, following an immediate request to operate all aircraft flying into Afghanistan and Iraq during night time hours. This complex task required engagement with operational squadrons and HQs, to allocate air assets, calculate crew duty hours and solve airport deconfliction issues. The programme was delivered successfully resulting in minimum disruption to Defence.
+
+<a name="history"><a>
+## **CAREER HISTORY**
+###### Royal Air Force | 2000 - 2016
+| Job Title | Location |
+|------|-------------|
+|Aircraft Planner and Scheduler|Defence Chain Operations and Movements, MOD Abbey Wood
+|Head of Airfield Operations| RAF Ascension Island|
+|Cruise Missile Mission Planner| MOD Permanent Headquarters, London |
+|Airfield Operations Manager| Camp Bastion Airfield, Afghanistan|
+|Project and Production Manager| Defence Aeronautical Cartography Unit, London |
+|Operations Officer| Joint Operations Centre, Falkland Islands|
+|Airfield Operations Manager|RAF Northolt |
+|Executive Assistant to Head of Operations| Falkland Islands|
+|Airfield Operations Manager|RAF Coltishall |
+|Professional Musician| Central Band of the RAF |
