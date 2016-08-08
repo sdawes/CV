@@ -24,18 +24,20 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 
 
 #### PROJECT MANAGEMENT
-###### PRINCE 2, APMP Qualified Project Manager with experience leading personnel and delivering business objectives within budget and time.
+###### PRINCE 2, APMP Qualified Project Manager with experience leading personnel and delivering business objectives within budget and time. Line Manager for 40+ personnel.
 * Awarded the 2011 Defence Surveyor's Association Outstanding Contribution to Air Cartography. Identified, planned and implemented a complex 200K Management Information System to deliver a number of key business objectives. This led to a 50% reduction in waste material, saving cira 500K per year for Defence.
 
 * Planned and managed a large scale emergency response exercise at RAF Ascension Island, to enable accreditation under the Major Accident and Control Regulations framework. Facilitated a multi agency full scale crash exercise to test the response of the joint US/UK emergency services, inter governmental agencies and joint civilian and military staff.
 
 #### LEADERSHIP AND MANAGEMENT
+###### Extensive experience in operations, process and personnel management, proficient in staff, personal and professional development.
 * Re-designed process for planning RAF Storm Shadow Cruise Missiles and influenced managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.  
 
 * Reviewed procedures for scheduling transport aircraft and re-designed the process required to book aircraft into airports. Persuaded my team to implement the new procedures, resulting in a near 25% reduction in the work required.
 
 #### OPERATIONS MANAGEMENT
-* Volunteered to re-plan the entirety of the Defence Logistics flying programme at short notice, following an immediate request to operate all aircraft flying into Afghanistan and Iraq during night time hours. This complex task required engagement with operational squadrons and HQs, to allocate air assets, calculate crew duty hours and solve airport deconfliction issues. The programme was delivered successfully resulting in minimum disruption to Defence.
+###### Capable decision maker, articulate communicator, proficient organiser and ability to focus on detail. 
+* Volunteered to re-plan the entirety of the Defence Logistics flying programme at short notice following an immediate request to operate all aircraft flying into Afghanistan and Iraq during night time hours. This complex task required engagement with operational squadrons and HQs, re-allocating air assets, calculating crew duty hours and resolving airport deconfliction issues. The programme was delivered successfully resulting in minimum disruption to Defence.
 
 <a name="history"><a>
 ## **CAREER HISTORY**
