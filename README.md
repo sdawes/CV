@@ -56,10 +56,12 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 <a name="training"><a>
 ## **PROFESSIONAL TRAINING**
 | Organisation |Year| Qualifications / Skills |
-|------|-------------|
+|--------------|----|-------------------------|
 |Makers Academy|2016| Ruby, Rails, JavaScript, TDD, Testing, Databases
 |City of Bristol College|2015| Level 3, Web Development|
 |APMG Project Management|2015  |APMP, PRINCE 2|
 |Royal Air Force|2004-2016  |Officer Training, Flight Operations Training, Civilian Managment, Interview and Selection, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
 |Royal College of Music|1996-2000|BMus (HONS) 2:1 Degree  
 |Kennet School|1996  |A Levels, Maths, Physics, Music |
+
+End
