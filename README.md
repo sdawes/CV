@@ -4,7 +4,7 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-Recent graduate from one of Europe's leading coding bootcamps, specialising in writing web applications in Ruby, Ruby on Rails, Javascript, HTML and CSS. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. An experienced and effective leader and manager capable of adapting quickly to various roles. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft and running air operations at a joint US/UK airport, to managing a printing facility and planning cruise missiles.
+Recent graduate from one of Europe's leading coding bootcamps, specialising in writing web applications in Ruby, Ruby on Rails, Javascript, HTML and CSS. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. An experienced and effective leader and manager capable of adapting quickly to various roles. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft and managing air operations, to managing 40+ personnel and planning cruise missile missions.
 
 <a name="skills"><a>
 ### **KEY SKILLS**
@@ -65,4 +65,4 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 
 <a name="leisure"><a>
 ### **HOBBIES AND INTERESTS**
-An ex professional musician, passionate about classical and live music. Active participant in sports and fitness with an interest in Squash, Swimming and Mountain Biking. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol! I give my time to support local charities and clubs in Bristol, including THT and the City of Bristol Rowing Club, of which I am re-designing their website. 
+An ex professional musician, passionate about classical and live music. Active participant in sports and fitness with an interest in Squash, Swimming and Mountain Biking. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol! I give my time to support local charities and clubs in Bristol, including THT and the City of Bristol Rowing Club, of which I am re-designing their website.
