@@ -11,7 +11,7 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 <a name="skills"><a>
 ### **KEY SKILLS**
 #### WEB DEVELOPMENT
-###### Experience using Ruby, Ruby on Rails, JavaScript, HTML and CSS, to build web applications and programs.
+###### Experience using Ruby, Ruby on Rails, JavaScript, HTML and CSS, to build web applications and programs. 10 years experience using Adobe Photoshop.
 * Selected to attend a 4 month immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility.
 
 * Ruby, Ruby on Rails, JavaScript, TDD, HTML, CSS
@@ -20,9 +20,9 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 
 | Name | Description | Technologies | Testing |
 |-----------------|-------------|--------------|---------|
-|[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Choose your own adventure game with dynamic tree generator for creating own adventures | Ruby on Rails, Postgres, HTML5, CSS | RSpec, Capybara|
+|[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Choose your own adventure game with dynamic tree generator for creating own adventures | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC | RSpec, Capybara|
 |[**Instagram Challenge**](https://github.com/sdawes/instagram-challenge)|A clone of Instagram which allows you to view, create and post pictures.|Ruby, Ruby on Rails, Postgres|RSpec, Capybara|
-|[**Milton-Manuk**](https://milton-manuk.london)|A wedding website for two friends.|HTML5, CSS3, JQuery|Nil|
+|[**Milton-Manuk**](https://milton-manuk.london)|A wedding website for two friends.|HTML5, CSS3, JQuery, Adobe CC|Nil|
 
 
 #### PROJECT MANAGEMENT
