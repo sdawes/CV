@@ -1,13 +1,13 @@
-# Stephen Dawes BMus (HONS) RAF
+## Stephen Dawes BMus (HONS) RAF
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
 
 <a name="profile"><a>
-## **SUMMARY**
+### **SUMMARY**
 Recent graduate from one of Europe's leading coding bootcamps, specialising in writing web applications in Ruby, Ruby on Rails, Javascript, HTML and CSS. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. An experienced and effective leader and manager capable of adapting quickly to various roles. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft and running air operations at a joint US/UK airport, to managing a printing facility and planning cruise missiles.
 
 <a name="skills"><a>
-## **KEY SKILLS**
+### **KEY SKILLS**
 #### WEB DEVELOPMENT
 ###### Experience using Ruby, Ruby on Rails, JavaScript, HTML and CSS, to build web applications and programs.
 * Selected to attend a 4 month immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility.
@@ -36,12 +36,13 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 * Reviewed procedures for scheduling transport aircraft and re-designed the process required to book aircraft into airports. Persuaded my team to implement the new procedures, resulting in a near 25% reduction in the work required.
 
 #### OPERATIONS MANAGEMENT
-###### Capable decision maker, articulate communicator, proficient organiser and ability to focus on detail. 
+###### Capable decision maker, articulate communicator, proficient organiser and ability to focus on detail.
 * Volunteered to re-plan the entirety of the Defence Logistics flying programme at short notice following an immediate request to operate all aircraft flying into Afghanistan and Iraq during night time hours. This complex task required engagement with operational squadrons and HQs, re-allocating air assets, calculating crew duty hours and resolving airport deconfliction issues. The programme was delivered successfully resulting in minimum disruption to Defence.
 
 <a name="history"><a>
-## **CAREER HISTORY**
+### **CAREER HISTORY**
 ###### Royal Air Force | 2000 - 2016
+###### (5 most recent positions)
 | Job Title | Location |
 |------|-------------|
 |Aircraft Planner and Scheduler|Defence Chain Operations and Movements, MOD Abbey Wood
@@ -49,14 +50,10 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 |Cruise Missile Mission Planner| MOD Permanent Headquarters, London |
 |Airfield Operations Manager| Camp Bastion Airfield, Afghanistan|
 |Project and Production Manager| Defence Aeronautical Cartography Unit, London |
-|Operations Officer| Joint Operations Centre, Falkland Islands|
-|Airfield Operations Manager|RAF Northolt |
-|Executive Assistant to Head of Operations| Falkland Islands|
-|Airfield Operations Manager|RAF Coltishall |
-|Professional Musician| Central Band of the RAF |
+
 
 <a name="training"><a>
-## **PROFESSIONAL TRAINING**
+### **PROFESSIONAL TRAINING**
 | Organisation |Year| Qualifications / Skills |
 |--------------|----|-------------------------|
 |Makers Academy|2016| Ruby, Rails, JavaScript, TDD, Testing, Databases
@@ -66,4 +63,6 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 |Royal College of Music|1996-2000|BMus (HONS) 2:1 Degree  
 |Kennet School|1996  |A Levels, Maths, Physics, Music |
 
-End
+<a name="leisure"><a>
+### **HOBBIES AND INTERESTS**
+An ex professional musician, passionate about classical and live music. Active participant in sports and fitness with an interest in Squash, Swimming and Mountain Biking. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol! I give my time to support local charities and clubs in Bristol, including THT and the City of Bristol Rowing Club, of which I am re-designing their website. 
