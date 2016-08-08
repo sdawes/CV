@@ -1,6 +1,6 @@
 ## Stephen Dawes BMus (HONS) RAF
-[My Makers Academy Blog](https://www.medium.com/canitbedone "Can it be done?")<br>
-[My LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
+:newspaper: [My Makers Academy Blog](https://www.medium.com/canitbedone "Can it be done?")<br>
+:computer: [My LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
 
