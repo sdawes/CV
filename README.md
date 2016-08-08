@@ -9,7 +9,7 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 <a name="skills"><a>
 ## **KEY SKILLS**
 #### WEB DEVELOPMENT
-###### Experience using Ruby, Ruby on Rails, JavaScript, HTML and CSS, to build web applications and programs. 
+###### Experience using Ruby, Ruby on Rails, JavaScript, HTML and CSS, to build web applications and programs.
 * Selected to attend a 4 month immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility.
 
 * Ruby, Ruby on Rails, JavaScript, TDD, HTML, CSS
@@ -62,4 +62,4 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 |APMG Project Management|2015  |APMP, PRINCE 2|
 |Royal Air Force|2004-2016  |Officer Training, Flight Operations Training, Civilian Managment, Interview and Selection, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
 |Royal College of Music|1996-2000|BMus (HONS) 2:1 Degree  
-|Kennet School|1996  |A Levels, Maths, Physics, Music | |
+|Kennet School|1996  |A Levels, Maths, Physics, Music |
