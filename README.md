@@ -6,7 +6,7 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-Recent graduate from one of Europe's leading coding bootcamps, specialising in writing web applications in Ruby, Ruby on Rails, Javascript, HTML and CSS. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. An experienced and effective leader and manager capable of adapting quickly to various roles. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft and managing air operations, to managing 40+ personnel and planning cruise missile missions.
+Recent graduate from one of Europe's leading coding bootcamps, specialising in writing web applications in Ruby, Ruby on Rails, Javascript, HTML and CSS. 10 years experience using Adobe products for Graphic Design. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. An experienced and effective leader and manager capable of adapting quickly to various roles. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft and managing air operations, to managing 40+ personnel and planning cruise missile missions.
 
 <a name="skills"><a>
 ### **KEY SKILLS**
@@ -15,6 +15,7 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 * Selected to attend a 4 month immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility.
 
 * Ruby, Ruby on Rails, JavaScript, TDD, HTML, CSS
+* Adobe Photoshop, Illustrator, Cinema 4D
 
 ###### KEY ACHIEVEMENTS
 
@@ -27,15 +28,15 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 
 #### PROJECT MANAGEMENT
 ###### PRINCE 2, APMP Qualified Project Manager with experience leading personnel and delivering business objectives within budget and time. Line Manager for 40+ personnel.
-* Awarded the 2011 Defence Surveyor's Association Outstanding Contribution to Air Cartography. Identified, planned and implemented a complex 200K Management Information System to deliver a number of key business objectives. This led to a 50% reduction in waste material, saving cira 500K per year for Defence.
+* Awarded the 2011 Defence Surveyor's Association Outstanding Contribution to Air Cartography. Identified, planned and implemented a complex 200K Management Information System to deliver a number of key business objectives. This led to a 50% reduction in waste material, saving cira £500K per year for Defence.
 
 * Planned and managed a large scale emergency response exercise at RAF Ascension Island, to enable accreditation under the Major Accident and Control Regulations framework. Facilitated a multi agency full scale crash exercise to test the response of the joint US/UK emergency services, inter governmental agencies and joint civilian and military staff.
 
 #### LEADERSHIP AND MANAGEMENT
 ###### Extensive experience in operations, process and personnel management, proficient in staff, personal and professional development.
-* Re-designed process for planning RAF Storm Shadow Cruise Missiles and influenced managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.  
+* Re-designed process for planning RAF Storm Shadow Cruise Missiles and persuaded managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.  
 
-* Reviewed procedures for scheduling transport aircraft and re-designed the process required to book aircraft into airports. Persuaded my team to implement the new procedures, resulting in a near 25% reduction in the work required.
+* Reviewed procedures for scheduling transport aircraft and re-designed the process required to book aircraft into airports. Directed my team to implement the new procedures, resulting in a near 25% reduction in the work required.
 
 #### OPERATIONS MANAGEMENT
 ###### Capable decision maker, articulate communicator, proficient organiser and ability to focus on detail.
