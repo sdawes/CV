@@ -6,7 +6,7 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-Recent graduate from one of Europe's leading coding bootcamps, specialising in writing web applications in Ruby, Ruby on Rails, Javascript, HTML and CSS. 10 years experience using Adobe products for Graphic Design. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. An experienced and effective leader and manager capable of adapting quickly to various roles. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft and managing air operations, to managing 40+ personnel and planning cruise missile missions.
+Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby, Ruby on Rails, RSpec, Javascript, HTML and CSS. 10 years experience using Adobe products for Graphic Design. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. An experienced and effective leader and manager capable of adapting quickly to various roles. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft and managing air operations, to managing 40+ personnel and planning cruise missile missions.
 
 <a name="skills"><a>
 ### **KEY SKILLS**
@@ -14,7 +14,8 @@ Recent graduate from one of Europe's leading coding bootcamps, specialising in w
 ###### Experience using Ruby, Ruby on Rails, JavaScript, HTML and CSS, to build web applications and programs. 10 years experience using Adobe Photoshop.
 * Selected to attend a 4 month immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility.
 
-* Ruby, Ruby on Rails, JavaScript, TDD, HTML, CSS
+* OOP, TDD, BDD
+* Ruby, Ruby on Rails, JavaScript, JQuery, RSpec, HTML, CSS
 * Adobe Photoshop, Illustrator, Cinema 4D
 
 ###### KEY ACHIEVEMENTS
