@@ -8,13 +8,13 @@
 ### **SUMMARY**
 Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft to planning cruise missiles!
 
-I decided to change careers to re-embrace my creative side, learn new skills that will last a life time and open the door to new opportunities. I have always played around with computer coding and am excited to now further the code from the days of programming my ZX Spectrum (plus 2)!    
+I decided to change careers to re-embrace my creative side, learn new skills that will last a life time and open the door to new opportunities. I have always played around with computer coding and am excited to now further the code from the days of programming my ZX Spectrum (plus 2)! I am looking for a junior front end / back end or full stack position in an innovative creative company.   
 
 <a name="skills"><a>
 ### **KEY SKILLS**
-#### WEB DEVELOPMENT
+#### WEB DEVELOPMENT AND LEARNING
 ###### Experience building Object Orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, React, HTML and CSS. 10 years experience using Adobe Photoshop and Illustrator with an extensive skill set in graphic design.
-* Selected to attend a 4 month immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility.
+* Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
 
 * OOP, TDD, BDD
 * Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS
