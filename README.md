@@ -15,10 +15,9 @@ Decided to change careers to re-embrace creative side, learn skills that will la
 #### WEB DEVELOPMENT AND LEARNING
 ###### Experience building Object Orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, React, HTML and CSS. 10 years experience using Adobe Photoshop and Illustrator with an extensive skill set in graphic design.
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
-
-* OOP, TDD, BDD
-* Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS
-* Git, Github, Waffle, PostgreSQL
+* OOP, TDD, BDD  
+* Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS  
+* Git, Github, Waffle, PostgreSQL  
 * Adobe Photoshop, Illustrator, Cinema 4D
 
 ###### KEY ACHIEVEMENTS
