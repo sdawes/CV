@@ -8,7 +8,7 @@
 ### **SUMMARY**
 Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft to planning cruise missiles!
 
-I decided to change careers to re-embrace my creative side, learn new skills that will last a life time and open the door to new opportunities. I have always played around with computer coding and am excited to now further the code from the days of programming my ZX Spectrum (plus 2)! I am looking for a junior front end / back end or full stack position in an innovative creative company.   
+Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. I have always played around with computer coding and am excited to now further the code from the days of programming my ZX Spectrum (plus 2)! I am looking for a junior front end / back end or full stack position in an innovative creative company.   
 
 <a name="skills"><a>
 ### **KEY SKILLS**
@@ -18,6 +18,7 @@ I decided to change careers to re-embrace my creative side, learn new skills tha
 
 * OOP, TDD, BDD
 * Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS
+* Git, Github, Waffle, PostgreSQL
 * Adobe Photoshop, Illustrator, Cinema 4D
 
 ###### KEY ACHIEVEMENTS
