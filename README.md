@@ -24,8 +24,8 @@ Decided to change careers to re-embrace creative side, learn skills that will la
 
 | Name | Description | Technologies | Testing |
 |-----------------|-------------|--------------|---------|
-|[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Choose your own adventure game with dynamic tree generator for creating own adventures | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC | RSpec, Capybara|
-|[**Instagram Challenge**](https://github.com/sdawes/instagram-challenge)|A clone of Instagram which allows you to view, create and post pictures.|Ruby, Ruby on Rails, Postgres|RSpec, Capybara|
+|[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC | RSpec, Capybara|
+|[**Personal Portfolio Web App**](https://pure-citadel-12169.herokuapp.com/)|A personal portfolio site designed in Ruby on Rails, HTML and SCSS.|Ruby, Ruby on Rails, SCSS, HTML|RSpec, Capybara|
 |[**Milton-Manuk**](https://milton-manuk.london)|A wedding website for two friends.|HTML5, CSS3, JQuery, Adobe CC|Nil|
 
 
