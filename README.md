@@ -30,20 +30,22 @@ Decided to change careers to re-embrace creative side, learn skills that will la
 
 
 #### PROJECT MANAGEMENT
-###### PRINCE 2, APMP Qualified Project Manager with experience leading personnel and delivering business objectives within budget and time.
-* Awarded the 2011 Defence Surveyor's Association Outstanding Contribution to Air Cartography. Identified, planned and implemented a complex 200K Management Information System to deliver a number of key business objectives. This led to a 50% reduction in waste material, saving cira £500K per year for Defence.
+###### PRINCE 2 and APMP Qualified Project Manager. Experience in implementing Agile best practices and methodologies.
+* Awarded the 2011 Defence Surveyor's Association Outstanding Contribution to Air Cartography. Identified and project managed a complex 200K Management Information System to deliver a number of key business objectives. This led to a 50% reduction in waste material, saving cira £500K per year for Defence.
 
-* Planned and managed a large scale emergency response exercise at RAF Ascension Island, to enable accreditation under the Major Accident and Control Regulations framework. Facilitated a multi agency full scale crash exercise to test the response of the joint US/UK emergency services, inter governmental agencies and joint civilian and military staff.
+* Planned and project managed a large scale emergency response exercise at RAF Ascension Island, to enable accreditation under the Major Accident and Control Regulations framework. Facilitated a multi agency full scale crash exercise to test the response of the joint US/UK emergency services, inter governmental agencies and joint civilian and military staff.
 
 #### LEADERSHIP AND MANAGEMENT
 ###### Extensive experience in operations, process and personnel management, proficient in staff, personal and professional development.
-* Re-designed process for planning RAF Storm Shadow Cruise Missiles and persuaded managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.  
+* Managed a team of 40 military and civilian personnel responsible for the reproduction and delivery of all Defence Aeronautical Planning documents and air charts. Facilitated a successful continuous improvement and change workshop, resulting in increased output and much improved moral.  
 
 * Reviewed procedures for scheduling transport aircraft and re-designed the process required to book aircraft into airports. Directed my team to implement the new procedures, resulting in a near 25% reduction in the work required.
 
 #### OPERATIONS MANAGEMENT
 ###### Capable decision maker, articulate communicator, proficient organiser and ability to focus on detail.
-* Volunteered to re-plan the entirety of the Defence Logistics flying programme at short notice following an immediate request to operate all aircraft flying into Afghanistan and Iraq during night time hours. This complex task required engagement with operational squadrons and HQs, re-allocating air assets, calculating crew duty hours and resolving airport deconfliction issues. The programme was delivered successfully resulting in minimum disruption to Defence.
+* Re-planned the entirety of the Defence Logistics flying programme at short notice following an immediate request to operate all aircraft flying into Afghanistan and Iraq during night time hours. This complex task required engagement with operational squadrons and HQs, re-allocating air assets, calculating crew duty hours and resolving airport deconfliction issues.
+
+* Re-designed process for planning RAF Storm Shadow Cruise Missiles and persuaded managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.
 
 <a name="history"><a>
 ### **CAREER HISTORY**
