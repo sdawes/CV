@@ -6,9 +6,9 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range complex positions from scheduling transport aircraft to planning cruise missiles!
+Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling transport aircraft to planning cruise missiles!
 
-Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. I have always played around with computer coding and am excited to now further the code from the days of programming my ZX Spectrum (plus 2)! I am looking for a junior front end / back end or full stack position in an innovative creative company.   
+Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. I have experimented with computer programming since my (very) early years on my ZX Spectrum and basic mark up in the 90s and am now excited to learn much newer technologies!   
 
 <a name="skills"><a>
 ### **KEY SKILLS**
@@ -16,7 +16,7 @@ Decided to change careers to re-embrace creative side, learn skills that will la
 ###### Experience building Object Orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, React, HTML and CSS. 10 years experience using Adobe Photoshop and Illustrator with an extensive skill set in graphic design.
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
 * OOP, TDD, BDD  
-* Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS  
+* Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS, SASS.  
 * Git, Github, Waffle, PostgreSQL  
 * Adobe Photoshop, Illustrator, Cinema 4D
 
