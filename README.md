@@ -8,7 +8,7 @@
 ### **SUMMARY**
 Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling transport aircraft to planning cruise missiles!
 
-Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. I have experimented with computer programming since my (very) early years on my ZX Spectrum and basic mark up in the 90s and am now excited to learn much newer technologies!   
+Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. I have experimented with computer programming since my (very) early years on my ZX Spectrum and basic mark up in the late 90s and am now excited to learn much newer technologies and work with them professionally!   
 
 <a name="skills"><a>
 ### **KEY SKILLS**
