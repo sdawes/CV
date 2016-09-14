@@ -8,7 +8,7 @@
 ### **SUMMARY**
 Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling transport aircraft to planning cruise missiles!
 
-Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. I have experimented with computer programming since my (very) early years on my ZX Spectrum and basic mark up in the late 90s and am now excited to learn much newer technologies and work with them professionally! Bristol is my home and I am actively participating in the community through various meet ups.   
+Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. I have experimented with computer programming since my (very) early years on my ZX Spectrum and basic mark up in the late 90s and am now excited to learn much newer technologies and work with them professionally! I am actively participating in the community through various meet ups in my home town of Bristol.   
 
 <a name="skills"><a>
 ### **KEY SKILLS**
@@ -22,11 +22,11 @@ Decided to change careers to re-embrace creative side, learn skills that will la
 
 ###### KEY ACHIEVEMENTS
 
-| Name | Description | Technologies | Testing |
-|-----------------|-------------|--------------|---------|
-|[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC | RSpec, Capybara|
-|[**Personal Portfolio Web App**](https://github.com/sdawes/rails_portfolio)|A personal portfolio site designed in Ruby on Rails, HTML and SCSS. Link to Heroku hosted app: https://pure-citadel-12169.herokuapp.com |Ruby, Ruby on Rails, SCSS, HTML|RSpec, Capybara|
-|[**Milton-Manuk**](https://milton-manuk.london)|A wedding website for two friends.|HTML5, CSS3, JQuery, Adobe CC|Nil|
+| Name | Description | Technologies |
+|-----------------|-------------|--------------|
+|[**Personal Portfolio Web App**](https://github.com/sdawes/rails_portfolio)|A personal portfolio and blogging site I designed in Ruby on Rails, HTML and SCSS. Link to Heroku hosted app: https://pure-citadel-12169.herokuapp.com |Ruby, Ruby on Rails, SCSS, HTML
+|[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Makers Academy final projects. Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC
+|[**Milton-Manuk**](https://milton-manuk.london)|A static responsive wedding single page website I designed for friends.|HTML5, CSS3, JQuery, Adobe CC
 
 
 #### PROJECT MANAGEMENT
