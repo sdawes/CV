@@ -1,6 +1,6 @@
 ## Stephen Dawes BMus (HONS) RAF
 :mortar_board: [My LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
-<br>:scroll: [Personal blog and portfolio](https://pure-citadel-12169.herokuapp.com/)
+<br>:art: [Personal blog and portfolio](https://pure-citadel-12169.herokuapp.com/)
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
 
