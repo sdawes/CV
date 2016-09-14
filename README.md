@@ -1,6 +1,6 @@
 ## Stephen Dawes BMus (HONS) RAF
-:newspaper: [My Makers Academy Blog](https://www.medium.com/canitbedone "Can it be done?")<br>
-:computer: [My LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
+:mortar_board: [My LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
+<br>:scroll: [Personal blog and portfolio](https://pure-citadel-12169.herokuapp.com/)
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
 
@@ -60,7 +60,7 @@ Decided to change careers to re-embrace creative side, learn skills that will la
 
 
 <a name="training"><a>
-### **PROFESSIONAL TRAINING**
+#### **PROFESSIONAL TRAINING**
 | Organisation |Year| Qualifications / Skills |
 |--------------|----|-------------------------|
 |Makers Academy|2016| Ruby, Rails, JavaScript, TDD, Testing, Databases
