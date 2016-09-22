@@ -17,7 +17,7 @@ Decided to change careers to re-embrace creative side, learn skills that will la
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
 * OOP, TDD, BDD  
 * Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS, SASS.  
-* Git, Github, Waffle, PostgreSQL  
+* Git, Github, AWS, PostgreSQL  
 * Adobe Photoshop, Illustrator, Cinema 4D
 
 ###### KEY ACHIEVEMENTS
