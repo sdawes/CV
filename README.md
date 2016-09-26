@@ -1,6 +1,6 @@
 ## Stephen Dawes BMus (HONS) RAF
-:mortar_board: [My LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
-<br>:art: [Personal blog and portfolio](https://pure-citadel-12169.herokuapp.com/)
+:art: [Portfolio (built in Rails)](https://pure-citadel-12169.herokuapp.com/)<br>
+:mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
 
@@ -8,23 +8,23 @@
 ### **SUMMARY**
 2 years web development and 6 years graphic design experience. Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles!
 
-Decided to change careers to re-embrace creative side, learn skills that will last a life time and open the door to new challenges and opportunities. A creative geek at heart, from the early days of programming on a ZX Spectrum (plus 2!), to playing around with HTML markup in the 90s and playing League of Legends online today. An active participant in the local tech community in home town of Bristol and enthusiastic musician.   
+Decided to change careers to re-embrace creative and technical side, learn skills that will last a life time and open the door to new challenges and opportunities. A creative geek at heart, from the early days of programming on a ZX Spectrum, to playing around with HTML markup in the 90s and playing League of Legends online today. An active participant in the local tech community in home town of Bristol and enthusiastic musician.   
 
 <a name="skills"><a>
 ### **KEY SKILLS**
 #### WEB DEVELOPMENT AND LEARNING
-###### Experience building Object Orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, React, HTML and CSS. 10 years experience using Adobe Photoshop and Illustrator with an extensive skill set in graphic design.
+###### 2 years experience building object orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, HTML and CSS. 6 years experience using Adobe Photoshop and Illustrator with an extensive skill set in graphic design.
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
-* OOP, TDD, BDD  
-* Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, RSpec, HTML, CSS, SASS.  
-* Git, Github, AWS, PostgreSQL  
-* Adobe Photoshop, Illustrator, Cinema 4D
+* OOP, TDD, BDD using RSpec, Jasmine, Mocha and Chai.
+* Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, HTML, CSS, SASS.  
+* Git, Github, Amazon Web Services, PostgreSQL, Command Line.  
+* Adobe Photoshop, Illustrator, Cinema 4D.
 
 ###### KEY ACHIEVEMENTS
 
 | Name | Description | Technologies |
 |-----------------|-------------|--------------|
-|[**Personal Portfolio Web App**](https://github.com/sdawes/rails_portfolio)|A personal portfolio and blogging site I designed in Ruby on Rails, HTML and SCSS. Link to Heroku hosted app: https://pure-citadel-12169.herokuapp.com |Ruby, Ruby on Rails, SCSS, HTML, Heroku, AWS.
+|[**Personal Portfolio Web App**](https://pure-citadel-12169.herokuapp.com)|A personal portfolio and blogging site built in Ruby on Rails, HTML and SCSS. Demonstrates MVC and CRUD processes, database management, pagination, user authentication, CSS layout, hosting on Heroku and AWS. Link to app: https://pure-citadel-12169.herokuapp.com. Link to code on github: https://github.com/sdawes/rails_portfolio  |Ruby, Rails, SCSS, HTML, Heroku, AWS.
 |[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Makers Academy final projects. Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC
 |[**Milton-Manuk**](https://milton-manuk.london)|A static responsive wedding single page website I designed for friends.|HTML5, CSS3, JQuery, Adobe CC
 
