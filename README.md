@@ -1,5 +1,5 @@
 ## Stephen Dawes BMus (HONS) RAF
-:art: Personal Portfolio (built in Rails): [www.sdawes.com]<br>
+:art: Personal Portfolio (built in Rails): www.sdawes.com<br>
 :mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
@@ -24,7 +24,7 @@ Decided to change careers to re-embrace creative and technical side, learn skill
 
 | Name | Description | Technologies |
 |-----------------|-------------|--------------|
-|[**Personal Portfolio Web App**][www.sdawes.com]|A personal portfolio and blogging site built in Ruby on Rails, HTML and SCSS. Demonstrates MVC and CRUD processes, database management, pagination, user authentication, CSS layout, hosting on Heroku and AWS. Link to app: www.sdawes.com. Link to code on github: https://github.com/sdawes/rails_portfolio  |Ruby, Rails, SCSS, HTML, Heroku, AWS.
+|**Personal Portfolio Web App** www.sdawes.com|A personal portfolio and blogging site built in Ruby on Rails, HTML and SCSS. Demonstrates MVC and CRUD processes, database management, pagination, user authentication, CSS layout, hosting on Heroku and AWS. Link to app: www.sdawes.com. Link to code on github: https://github.com/sdawes/rails_portfolio  |Ruby, Rails, SCSS, HTML, Heroku, AWS.
 |[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Makers Academy final projects. Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC
 |[**Milton-Manuk**](https://milton-manuk.london)|A static responsive wedding single page website I designed for friends.|HTML5, CSS3, JQuery, Adobe CC
 
