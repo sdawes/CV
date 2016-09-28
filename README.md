@@ -1,18 +1,18 @@
 ## Stephen Dawes BMus (HONS) RAF
-:art: [Portfolio (built in Rails)](https://pure-citadel-12169.herokuapp.com/)<br>
+:art: [Portfolio (built in Rails)](https://sdawes.com)<br>
 :mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
 
 <a name="profile"><a>
 ### **SUMMARY**
-2 years web development and 6 years graphic design experience. Recent graduate from one of Europe's leading coding bootcamps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles!
+2 years' web development and 6 years' graphic design experience. Recent graduate from one of Europe's leading coding boot camps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles!
 
 Decided to change careers to re-embrace creative and technical side, learn skills that will last a life time and open the door to new challenges and opportunities. A creative geek at heart, from the early days of programming on a ZX Spectrum, to playing around with HTML markup in the 90s and playing League of Legends online today. An active participant in the local tech community in home town of Bristol and enthusiastic musician.   
 
 <a name="skills"><a>
 ### **KEY SKILLS**
-#### WEB DEVELOPMENT AND LEARNING
+#### WEB DEVELOPMENT AND LEARNING ABILITY
 ###### 2 years experience building object orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, HTML and CSS. 6 years experience using Adobe Photoshop and Illustrator with an extensive skill set in graphic design.
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
 * OOP, TDD, BDD using RSpec, Jasmine, Mocha and Chai.
@@ -24,7 +24,7 @@ Decided to change careers to re-embrace creative and technical side, learn skill
 
 | Name | Description | Technologies |
 |-----------------|-------------|--------------|
-|[**Personal Portfolio Web App**](https://pure-citadel-12169.herokuapp.com)|A personal portfolio and blogging site built in Ruby on Rails, HTML and SCSS. Demonstrates MVC and CRUD processes, database management, pagination, user authentication, CSS layout, hosting on Heroku and AWS. Link to app: https://pure-citadel-12169.herokuapp.com. Link to code on github: https://github.com/sdawes/rails_portfolio  |Ruby, Rails, SCSS, HTML, Heroku, AWS.
+|[**Personal Portfolio Web App**](https://sdawes.com)|A personal portfolio and blogging site built in Ruby on Rails, HTML and SCSS. Demonstrates MVC and CRUD processes, database management, pagination, user authentication, CSS layout, hosting on Heroku and AWS. Link to app: https://www.sdawes.com. Link to code on github: https://github.com/sdawes/rails_portfolio  |Ruby, Rails, SCSS, HTML, Heroku, AWS.
 |[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Makers Academy final projects. Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC
 |[**Milton-Manuk**](https://milton-manuk.london)|A static responsive wedding single page website I designed for friends.|HTML5, CSS3, JQuery, Adobe CC
 
@@ -72,4 +72,4 @@ Decided to change careers to re-embrace creative and technical side, learn skill
 
 <a name="leisure"><a>
 ### **HOBBIES AND INTERESTS**
-An ex professional musician, passionate about classical and live music. Active participant in sports and fitness with an interest in Squash, Swimming and Mountain Biking. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol! I give my time to support local charities and clubs in Bristol, including THT and the City of Bristol Rowing Club, of which I am re-designing their website.
+An ex professional musician, passionate about live music. Active participant in sports and fitness with an interest in Squash, Swimming and Football. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol (avid League of Legends and HOTS player)! I give my time to support local charities and clubs in Bristol, including THT and the City of Bristol Rowing Club, of which I am re-designing their website.
