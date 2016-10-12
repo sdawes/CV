@@ -6,19 +6,19 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-2 years' web development and 6 years' graphic design experience. Recent graduate from one of Europe's leading coding boot camps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles!
+2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles!
 
-Decided to change careers to re-embrace creative and technical side, learn skills that will last a life time and open the door to new challenges and opportunities. A creative geek at heart, from the early days of programming on a ZX Spectrum, to playing around with HTML markup in the 90s and playing League of Legends online today. An active participant in the local tech community in home town of Bristol and enthusiastic musician.   
+Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities. A creative geek at heart, from the early days of programming on a ZX Spectrum, to playing around with HTML markup in the 90s and playing League of Legends online today. An active participant in the local tech community in home town of Bristol and enthusiastic musician.  
 
 <a name="skills"><a>
 ### **KEY SKILLS**
 #### WEB DEVELOPMENT AND LEARNING ABILITY
-###### 2 years experience building object orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, HTML and CSS. 6 years experience using Adobe Photoshop and Illustrator with an extensive skill set in graphic design.
+###### 2 years experience building object orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, HTML and CSS.
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
-* OOP, TDD, BDD using RSpec, Jasmine, Mocha and Chai.
+* OOP and TDD utilising RSpec, Jasmine, Mocha and Chai.
 * Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, HTML, CSS, SASS.  
-* Git, Github, Amazon Web Services, PostgreSQL, Command Line.  
-* Adobe Photoshop, Illustrator, Cinema 4D.
+* Git, Github, Heroku, Amazon Web Services, PostgreSQL, Terminal.
+* Current reading list: Eric Freeman, Head First Design Patterns | Sandi Metz, POODR
 
 ###### KEY ACHIEVEMENTS
 
@@ -26,6 +26,7 @@ Decided to change careers to re-embrace creative and technical side, learn skill
 |-----------------|-------------|--------------|
 |**Personal Portfolio Web App** www.sdawes.com|A personal portfolio and blogging site built in Ruby on Rails, HTML and SCSS. Demonstrates MVC and CRUD processes, database management, pagination, user authentication, CSS layout, hosting on Heroku and AWS. Link to app: www.sdawes.com. Link to code on github: https://github.com/sdawes/rails_portfolio  |Ruby, Rails, SCSS, HTML, Heroku, AWS.
 |[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Makers Academy final projects. Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC
+|[**Twitter API**](https://mysterious-badlands-23855.herokuapp.com/)|A rails app using omniauth to authenticate a twitter account, redirect user back to homepage and display a list of their followers using the ruby Twitter gem. Github code at https://github.com/sdawes/rails_twitter_api. |Rails, Omniauth, Twitter Gem, HTML, SASS
 |[**Milton-Manuk**](https://milton-manuk.london)|A static responsive wedding single page website I designed for friends.|HTML5, CSS3, JQuery, Adobe CC
 
 
@@ -54,22 +55,22 @@ Decided to change careers to re-embrace creative and technical side, learn skill
 |------|-------------|
 |Aircraft Planner and Scheduler|Defence Chain Operations and Movements, MOD Abbey Wood
 |Head of Airfield Operations| RAF Ascension Island|
-|Cruise Missile Mission Planner| MOD Permanent Headquarters, London |
+|Cruise Missile Mission Planner| MOD Permanent Joint Headquarters, London |
 |Airfield Operations Manager| Camp Bastion Airfield, Afghanistan|
-|Project and Production Manager| Defence Aeronautical Cartography Unit, London |
+|Project and Production Manager| Defence Aeronautical Cartography Unit (No 1 AIDU), London |
 
 
 <a name="training"><a>
 #### **PROFESSIONAL TRAINING**
 | Organisation |Year| Qualifications / Skills |
 |--------------|----|-------------------------|
-|Makers Academy|2016| Ruby, Rails, JavaScript, TDD, Testing, Databases
-|City of Bristol College|2015| Level 3, Web Development|
+|Makers Academy|2016| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, Sinatra, Node
+|City of Bristol College|2015| Level 3, Advanced Web Development|
 |APMG Project Management|2015  |APMP, PRINCE 2|
-|Royal Air Force|2004-2016  |Officer Training, Flight Operations Training, Civilian Managment, Interview and Selection, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
-|Royal College of Music |1996-2000|BMus (HONS) 2:1 Degree (attained through Royal Northern College of Music
-|Kennet School|1996  |A Levels, Maths, Physics, Music |
+|Royal Air Force|2004-2016  |RAF Officer Training, RAF Flight Operations Training, Civilian Management Trg, Staff Interview and Selection Trg, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
+|Royal Northern College of Music |1996-2000|BMus (HONS) 2:1 Degree
+|Kennet School|1996  |A Levels, Music (B), Physics (C), Maths (C) and 9 A Grade GCSEs|
 
 <a name="leisure"><a>
 ### **HOBBIES AND INTERESTS**
-An ex professional musician, passionate about live music. Active participant in sports and fitness with an interest in Squash, Swimming and Football. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol (avid League of Legends and HOTS player)! I give my time to support local charities and clubs in Bristol, including THT and the City of Bristol Rowing Club, of which I am re-designing their website.
+An ex professional musician, passionate about music. Active participant in sports and fitness with an interest in Squash, Swimming and Football. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol (avid League of Legends and HOTS player)! I give my time to support local charities and clubs in Bristol, including the THT and a Bristol based football club.
