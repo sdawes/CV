@@ -1,6 +1,7 @@
 ## Stephen Dawes BMus (HONS) RAF
-:art: Personal Portfolio (built in Rails): www.sdawes.com<br>
-:mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")
+:art: [Personal Portfolio (built in Rails)](www.sdawes.com)<br>
+:mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")<br>
+:bird: [Twitter Profile](https://twitter.com/stephenrdawes)
 
 [Summary](#summary) | [Key Skills](#skills) | [Career History](#history) | [Professional Training](#training) | [Leisure Activities](#leisure)
 
@@ -20,17 +21,9 @@ Decided to change careers to re-embrace creative and technical side, learn long 
 * Git, Github, Heroku, Amazon Web Services, PostgreSQL, Terminal.
 * Current reading list: Eric Freeman, Head First Design Patterns | Sandi Metz, POODR
 
-###### PROFESSIONAL PORTFOLIO
+###### KEY ACHIEVEMENTS
 
-* My professional portfolio of work can be found at <a>www.sdawes.com</a>
-
-| Name | Description | Technologies |
-|-----------------|-------------|--------------|
-|**Personal Portfolio Web App** www.sdawes.com|A personal portfolio and blogging site built in Ruby on Rails, HTML and SCSS. Demonstrates MVC and CRUD processes, database management, pagination, user authentication, CSS layout, hosting on Heroku and AWS. Link to app: www.sdawes.com. Link to code on github: https://github.com/sdawes/rails_portfolio  |Ruby, Rails, SCSS, HTML, Heroku, AWS.
-|[**Time For An Adventure**](https://github.com/sdawes/Time-For-An-Adventure)| Makers Academy final projects. Choose your own adventure game with dynamic tree generator for creating own adventures. Youtube video: https://www.youtube.com/watch?v=a4NPua1kmD0 | Ruby on Rails, Postgres, HTML5, CSS, Adobe CC
-|[**Twitter API**](https://mysterious-badlands-23855.herokuapp.com/)|A rails app using omniauth to authenticate a twitter account, redirect user back to homepage and display a list of their followers using the ruby Twitter gem. Github code at https://github.com/sdawes/rails_twitter_api. |Rails, Omniauth, Twitter Gem, HTML, SASS
-|[**Milton-Manuk**](https://milton-manuk.london)|A static responsive wedding single page website I designed for friends.|HTML5, CSS3, JQuery, Adobe CC
-
+My professional portfolio and blog can be found at <a>www.sdawes.com</a>. It was built in Ruby on Rails, HTML and SCSS and demonstrates MVC and CRUD process and functionality, database management, pagination, user authentication and CSS layout & design. Images are hosted on AWS and it has been deployed to Heroku. The code base can be found on my github profile [here](https://github.com/sdawes/rails_portfolio). The portfolio contains links to featured web development projects and code I have built, and recent blog posts. 
 
 #### PROJECT MANAGEMENT
 ###### PRINCE 2 and APMP Qualified Project Manager. Experience in implementing Agile best practices and methodologies.
