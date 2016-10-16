@@ -64,7 +64,7 @@ My professional portfolio and blog can be found at <a>www.sdawes.com</a>. It was
 |APMG Project Management|2015  |APMP, PRINCE 2|
 |Royal Air Force|2004-2016  |RAF Officer Training, RAF Flight Operations Training, Civilian Management Trg, Staff Interview and Selection Trg, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
 |Royal Northern College of Music |1996-2000|BMus (HONS) 2:1 Degree
-|Kennet School|1996  |A Levels, Music (B), Physics (C), Maths (C) and 9 A Grade GCSEs|
+|Kennet School|1996  |A Levels, Music (B), Physics (C), Maths (C) and 7 A / 2 B Grade GCSEs|
 
 <a name="leisure"><a>
 ### **HOBBIES AND INTERESTS**
