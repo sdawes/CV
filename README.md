@@ -6,7 +6,7 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing fully TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles!
+2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles!
 
 Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities. A creative geek at heart, from the early days of programming on a ZX Spectrum, to playing around with HTML markup in the 90s and playing League of Legends online today. An active participant in the local tech community in home town of Bristol and enthusiastic musician.  
 
@@ -16,11 +16,13 @@ Decided to change careers to re-embrace creative and technical side, learn long 
 ###### 2 years experience building object orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, HTML and CSS.
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
 * OOP and TDD utilising RSpec, Jasmine, Mocha and Chai.
-* Ruby, Ruby on Rails, JavaScript, JQuery, React, Node, HTML, CSS, SASS.  
+* Ruby, Ruby on Rails, JavaScript, JQuery HTML, CSS, SASS.  
 * Git, Github, Heroku, Amazon Web Services, PostgreSQL, Terminal.
 * Current reading list: Eric Freeman, Head First Design Patterns | Sandi Metz, POODR
 
-###### KEY ACHIEVEMENTS
+###### PROFESSIONAL PORTFOLIO
+
+* My professional portfolio of work can be found at <a>www.sdawes.com</a>
 
 | Name | Description | Technologies |
 |-----------------|-------------|--------------|
