@@ -23,7 +23,7 @@ Decided to change careers to re-embrace creative and technical side, learn long 
 
 ###### KEY ACHIEVEMENTS
 
-My professional portfolio and blog can be found at <a>www.sdawes.com</a>. It was built in Ruby on Rails, HTML and SCSS and demonstrates MVC and CRUD process and functionality, database management, pagination, user authentication and CSS layout & design. Images are hosted on AWS and it has been deployed to Heroku. The code base can be found on my github profile [here](https://github.com/sdawes/rails_portfolio). The portfolio contains links to featured web development projects and code I have built, and recent blog posts. 
+My professional portfolio and blog can be found at <a>www.sdawes.com</a>. It was built in Ruby on Rails, HTML and SCSS and demonstrates MVC and CRUD process and functionality, database management, pagination, user authentication and CSS layout & design. Images are hosted on AWS and it has been deployed to Heroku. The code base can be found on my github profile [here](https://github.com/sdawes/rails_portfolio). The portfolio contains links to featured web development projects and code I have built, and recent blog posts.
 
 #### PROJECT MANAGEMENT
 ###### PRINCE 2 and APMP Qualified Project Manager. Experience in implementing Agile best practices and methodologies.
@@ -59,7 +59,7 @@ My professional portfolio and blog can be found at <a>www.sdawes.com</a>. It was
 #### **PROFESSIONAL TRAINING**
 | Organisation |Year| Qualifications / Skills |
 |--------------|----|-------------------------|
-|Makers Academy|2016| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, Sinatra, Node
+|Makers Academy|2016| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, Node, Agile PM
 |City of Bristol College|2015| Level 3, Advanced Web Development|
 |APMG Project Management|2015  |APMP, PRINCE 2|
 |Royal Air Force|2004-2016  |RAF Officer Training, RAF Flight Operations Training, Civilian Management Trg, Staff Interview and Selection Trg, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
