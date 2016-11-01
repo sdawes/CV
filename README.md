@@ -1,5 +1,5 @@
 ## Stephen Dawes BMus (HONS) RAF
-:art: [Personal Portfolio (built in Rails)](www.sdawes.com)<br>
+:art: [Personal Portfolio (built in Rails)](http://www.sdawes.com)<br>
 :mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")<br>
 :bird: [Twitter Profile](https://twitter.com/stephenrdawes)
 
