@@ -57,7 +57,7 @@
 | Job Title | Organisation | Location |
 |-----------|--------------|----------|
 |Front End Web Developer|Deep Blue Sky| Bath|
-|Aircraft Planner and Scheduler|RAF|Defence Chain Operations and Movements, MOD Abbey Wood
+|Aircraft Planner and Scheduler|RAF|Defence Chain Operations and Movements, MOD Abbey Wood |
 |Head of Airfield Operations|RAF| RAF Ascension Island|
 |Cruise Missile Mission Planner|RAF| MOD Permanent Joint Headquarters, London |
 |Airfield Operations Manager|RAF| Camp Bastion Airfield, Afghanistan|
@@ -68,7 +68,7 @@
 ### **PROFESSIONAL TRAINING**
 | Organisation | Qualifications / Skills |
 |--------------|-------------------------|
-|Makers Academy| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, node.js, Agile PM
+|Makers Academy| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, node.js, Agile PM|
 |City of Bristol College| Level 3, Advanced Web Development|
 |APMG Project Management|APMP, PRINCE 2|
 |Royal Air Force|RAF Officer Training, RAF Flight Operations Training, Civilian Management Trg, Staff Interview and Selection Trg, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
