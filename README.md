@@ -7,7 +7,10 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in Ruby and JavaScript. 6 months experience working as a Front End Web Developer at Deep Blue Sky (a digital agency based in Bath). <br><br>Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. <br><br>Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician.  
+Front End Web Developer and graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in HTML, CSS, SASS, JavaScript and Ruby. 
+ <br><br>Previously a Commissioned Officer in the Royal Air Force with over 12 years’ experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. 
+<br><br>Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician. 
+ 
 
 <a name="skills"><a>
 ### **KEY SKILLS**
