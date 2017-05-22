@@ -52,7 +52,8 @@
 * Re-designed process for planning RAF Storm Shadow Cruise Missiles and persuaded managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.
 
 <a name="history"><a>
-### **CAREER HISTORY**                                                 
+### **CAREER HISTORY** 
+###### Royal Air Force - last 5 positions only                                                
 
 | Job Title | Organisation | Location |
 |-----------|--------------|----------|
