@@ -16,9 +16,9 @@ Front End Web Developer and graduate from one of Europe's leading coding boot ca
 ### **KEY SKILLS**
 #### WEB DEVELOPMENT AND LEARNING ABILITY
 ###### 2 years cumulative experience building web sites and applications in HTML, CSS3, SASS, JavaScript, Ruby and Rails. Version Control in git. 
-* 6 months working at Deep Blue Sky, a digital agency in Bath, working on web applications and email campaigns in CSS, SASS, HTML5 and JavaScript. 
+* 6 months working at Deep Blue Sky, a digital agency in Bath, working on web applications and email campaigns in CSS, SASS, HTML5 and JavaScript. Exposure to PHP as the server side language.  
 * Experience using git for version control and Codebase as the hosting platform. 
-* Familiarity and exposure to PHP as the server side language. 
+* Familiarity with Front End Frameworks including Bootstrap and Angular. 
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility. Leant the principles of software development in just 12 weeks.
 * OOP and TDD utilising RSpec, Jasmine, Mocha and Chai.
 * Ruby, Ruby on Rails, JavaScript, JQuery, node.js.  
