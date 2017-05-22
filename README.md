@@ -43,7 +43,7 @@
 * Re-designed process for planning RAF Storm Shadow Cruise Missiles and persuaded managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.
 
 <a name="history"><a>
-#### **CAREER HISTORY**                                                 
+### **CAREER HISTORY**                                                 
 
 | Job Title | Organisation | Location |
 |-----------|--------------|----------|
@@ -56,7 +56,7 @@
 
 
 <a name="training"><a>
-#### **PROFESSIONAL TRAINING**
+### **PROFESSIONAL TRAINING**
 | Organisation | Qualifications / Skills |
 |--------------|-------------------------|
 |Makers Academy| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, node.js, Agile PM
