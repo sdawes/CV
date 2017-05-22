@@ -57,7 +57,7 @@
 
 | Job Title | Organisation | Location |
 |-----------|--------------|----------|
-|Front End Web Developer|Deep Blue Sky| Bath|
+|Front End Web Developer|Deep Blue Sky Digital| Bath|
 |Aircraft Planner and Scheduler|RAF|Defence Chain Operations and Movements, MOD Abbey Wood |
 |Head of Airfield Operations|RAF| RAF Ascension Island|
 |Cruise Missile Mission Planner|RAF| MOD Permanent Joint Headquarters, London |
