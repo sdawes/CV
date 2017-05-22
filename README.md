@@ -7,21 +7,22 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in Ruby and JavaScript. 6 months experience working as a Front End Web Developer at Deep Blue Sky (a digital agency based in Bath). <br>Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. <br>Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician.  
+2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in Ruby and JavaScript. 6 months experience working as a Front End Web Developer at Deep Blue Sky (a digital agency based in Bath). <br><br>Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. <br><br>Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician.  
 
 <a name="skills"><a>
 ### **KEY SKILLS**
 #### WEB DEVELOPMENT AND LEARNING ABILITY
-###### 2 years experience building object orientated web apps and programs using Ruby, Ruby on Rails, JavaScript, HTML and CSS.
-* Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility where I leant the principles of software development in just 12 weeks.
+###### 2 years cumulative epxerience building web sites and applications in HTML, CSS3, SASS, JavaScript, Ruby and Rails. Version Control in git. 
+* 6 months working at Deep Blue Sky, a digital agency in Bath, working on web applications and email campaigns in CSS, SASS, HTML5 and JavaScript. 
+* Experience using git for version control and Codebase as the hosting platform. 
+* Familiarity and exposure to PHP as the server side language. 
+* Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility. Leant the principles of software development in just 12 weeks.
 * OOP and TDD utilising RSpec, Jasmine, Mocha and Chai.
-* Ruby, Ruby on Rails, JavaScript, JQuery, HTML, CSS, SASS.  
+* Ruby, Ruby on Rails, JavaScript, JQuery, node.js.  
 * Git, Github, Heroku, Amazon Web Services, PostgreSQL, Terminal.
-* Current reading list: Eric Freeman, Head First Design Patterns | Sandi Metz, POODR
 
-###### :art: PORTFOLIO
+:closed_book: Current reading list: JavaScript and JQuery: The Missing Manual - David Sawyer. Head First Design Patterns - Eric Freeman.
 
-My professional portfolio and blog can be found at <a>www.sdawes.com</a>. It was built in Ruby on Rails, HTML and SCSS and demonstrates MVC and CRUD process and functionality, database management, pagination, user authentication and CSS layout & design. Images are hosted on AWS and it has been deployed to Heroku. The code base can be found on my github profile [here](https://github.com/sdawes/rails_portfolio). The portfolio contains links to featured web development projects and code I have built, and recent blog posts.
 
 #### PROJECT MANAGEMENT
 ###### PRINCE 2 and APMP Qualified Project Manager. Experience in implementing Agile best practices and methodologies.
@@ -42,28 +43,29 @@ My professional portfolio and blog can be found at <a>www.sdawes.com</a>. It was
 * Re-designed process for planning RAF Storm Shadow Cruise Missiles and persuaded managers to support the new format. This resulted in improved clarity of information flow and reduction in errors and mistakes in the missile profile planning process.
 
 <a name="history"><a>
-### **CAREER HISTORY**
-###### Royal Air Force | 2000 - 2016 (5 most recent positions)
-| Job Title | Location |
-|------|-------------|
-|Aircraft Planner and Scheduler|Defence Chain Operations and Movements, MOD Abbey Wood
-|Head of Airfield Operations| RAF Ascension Island|
-|Cruise Missile Mission Planner| MOD Permanent Joint Headquarters, London |
-|Airfield Operations Manager| Camp Bastion Airfield, Afghanistan|
-|Project and Production Manager| Defence Aeronautical Cartography Unit (No 1 AIDU), London |
+#### **CAREER HISTORY**                                                 
+
+| Job Title | Organisation | Location |
+|-----------|--------------|----------|
+|Front End Web Developer|Deep Blue Sky| Bath|
+|Aircraft Planner and Scheduler|RAF|Defence Chain Operations and Movements, MOD Abbey Wood
+|Head of Airfield Operations|RAF| RAF Ascension Island|
+|Cruise Missile Mission Planner|RAF| MOD Permanent Joint Headquarters, London |
+|Airfield Operations Manager|RAF| Camp Bastion Airfield, Afghanistan|
+|Project and Production Manager|RAF| Defence Aeronautical Cartography Unit (No 1 AIDU), London |
 
 
 <a name="training"><a>
 #### **PROFESSIONAL TRAINING**
-| Organisation |Year| Qualifications / Skills |
-|--------------|----|-------------------------|
-|Makers Academy|2016| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, Node, Agile PM
-|City of Bristol College|2015| Level 3, Advanced Web Development|
-|APMG Project Management|2015  |APMP, PRINCE 2|
-|Royal Air Force|2004-2016  |RAF Officer Training, RAF Flight Operations Training, Civilian Management Trg, Staff Interview and Selection Trg, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
-|Royal Northern College of Music |1996-2000|BMus (HONS) 2:1 Degree
-|Kennet School|1996  |A Levels, Music (B), Physics (C), Maths (C) and 7 A / 2 B Grade GCSEs|
+| Organisation | Qualifications / Skills |
+|--------------|-------------------------|
+|Makers Academy| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, node.js, Agile PM
+|City of Bristol College| Level 3, Advanced Web Development|
+|APMG Project Management|APMP, PRINCE 2|
+|Royal Air Force|RAF Officer Training, RAF Flight Operations Training, Civilian Management Trg, Staff Interview and Selection Trg, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
+|Royal Northern College of Music |BMus (HONS) 2:1 Degree
+|Kennet School|A Levels, Music (B), Physics (C), Maths (C) and 7 A / 2 B Grade GCSEs|
 
 <a name="leisure"><a>
 ### **HOBBIES AND INTERESTS**
-An ex professional musician, passionate about music. Active participant in sports and fitness with an interest in Squash, Swimming and Football. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol (avid League of Legends and HOTS player)! I give my time to support local charities and clubs in Bristol, including the THT and a Bristol based football club.
+An ex professional musician, passionate about music. Active participant in sports and fitness with an interest in squash. Motorbike owner who enjoys riding and socialising in local motorbike clubs and an avid enjoyment of all things tech, especially PC gaming and participating in local LAN parties in Bristol (avid League of Legends and HOTS player)! Active participant in local tech community, attending regular meetups in Bristol. 
