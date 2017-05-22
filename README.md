@@ -12,7 +12,7 @@
 <a name="skills"><a>
 ### **KEY SKILLS**
 #### WEB DEVELOPMENT AND LEARNING ABILITY
-###### 2 years cumulative epxerience building web sites and applications in HTML, CSS3, SASS, JavaScript, Ruby and Rails. Version Control in git. 
+###### 2 years cumulative experience building web sites and applications in HTML, CSS3, SASS, JavaScript, Ruby and Rails. Version Control in git. 
 * 6 months working at Deep Blue Sky, a digital agency in Bath, working on web applications and email campaigns in CSS, SASS, HTML5 and JavaScript. 
 * Experience using git for version control and Codebase as the hosting platform. 
 * Familiarity and exposure to PHP as the server side language. 
