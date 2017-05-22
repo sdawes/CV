@@ -21,6 +21,15 @@
 * Ruby, Ruby on Rails, JavaScript, JQuery, node.js.  
 * Git, Github, Heroku, Amazon Web Services, PostgreSQL, Terminal.
 
+###### Recent Projects
+
+| Organisation | Project | Link (no https:// or www.) |
+|-----------|--------------|----------|
+|Deep Blue Sky|Legal Referral Company|legalreferralcompany.com.bruce.face.deepbluesky.com/|
+|Deep Blue Sky|Bath Digital Festival|bathdigitalfestival.co.uk.jake.face.deepbluesky.com/|
+|Deep Blue Sky|Saint Stephen's Church|ststephensbath.org.uk.jake.face.deepbluesky.com/|
+|Makers Academy|Final Course Project|https://youtu.be/a4NPua1kmD0|
+
 :closed_book: Current reading list: JavaScript and JQuery: The Missing Manual - David Sawyer. Head First Design Patterns - Eric Freeman.
 
 
