@@ -1,5 +1,5 @@
 ## Stephen Dawes BMus (HONS) RAF
-:art: [Personal Portfolio (built in Rails)](http://www.sdawes.com)<br>
+<!-- :art: [Personal Portfolio (built in Rails)](http://www.sdawes.com)<br> -->
 :mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")<br>
 :bird: [Twitter Profile](https://twitter.com/stephenrdawes)
 
@@ -7,7 +7,7 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in Ruby and JavaScript. Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions from scheduling Defence transport aircraft to planning cruise missiles! Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician.  
+2 years' web development and design experience and a recent graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in Ruby and JavaScript. 6 months experience working as a Front End Web Developer at Deep Blue Sky (a digital agency based in Bath). <br>Previously a Commissioned Officer in the Royal Air Force with over 12 years experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. <br>Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician.  
 
 <a name="skills"><a>
 ### **KEY SKILLS**
