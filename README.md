@@ -16,7 +16,7 @@ Front End Web Developer and graduate from one of Europe's leading coding boot ca
 ### **KEY SKILLS**
 #### WEB DEVELOPMENT AND LEARNING ABILITY
 ###### 2 years cumulative experience building web sites and applications in HTML, CSS3, SASS, JavaScript, Ruby and Rails. Version Control in git. 
-* 6 months working at Deep Blue Sky, a digital agency in Bath, working on web applications and email campaigns in CSS, SASS, HTML5 and JavaScript. Exposure to PHP as the server side language.  
+* 6 months working at Deep Blue Sky, a digital agency in Bath, working on web applications and email campaigns in CSS, SASS, HTML5 and JavaScript. Exposure to PHP (through the company's CMS), JSON, AJAX and other APIs.   
 * Experience using git for version control and Codebase as the hosting platform. 
 * Familiarity with Front End Frameworks including Bootstrap and Angular. 
 * Selected to attend an immersive coding boot camp at Makers Academy in London, a globally renowned web development programming and coding facility. Leant the principles of software development in just 12 weeks.
@@ -63,7 +63,7 @@ Front End Web Developer and graduate from one of Europe's leading coding boot ca
 |Front End Web Developer|Deep Blue Sky Digital| Bath|
 |Aircraft Planner and Scheduler|RAF|Defence Chain Operations and Movements, MOD Abbey Wood |
 |Head of Airfield Operations|RAF| RAF Ascension Island|
-|Cruise Missile Mission Planner|RAF| MOD Permanent Joint Headquarters, London |
+|Operations Support Officer |RAF| MOD Permanent Joint Headquarters, London |
 |Airfield Operations Manager|RAF| Camp Bastion Airfield, Afghanistan|
 |Project and Production Manager|RAF| Defence Aeronautical Cartography Unit (No 1 AIDU), London |
 
