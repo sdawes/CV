@@ -1,5 +1,5 @@
 ## Stephen Dawes BMus (HONS)
-<!-- :art: [Personal Portfolio (built in Rails)](http://www.sdawes.com)<br> -->
+:art: [Personal Portfolio (built in node.js)](http://www.stevedawes.herokuapp.com)<br>
 :mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")<br>
 :bird: [Twitter Profile](https://twitter.com/stephenrdawes)
 
@@ -7,7 +7,7 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-Front End Web Developer and graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in HTML, CSS, SASS, JavaScript and Ruby. 
+Junior Web Developer and graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in HTML, CSS, SASS, JavaScript and Ruby. 
  <br><br>Previously a Commissioned Officer in the Royal Air Force with over 12 years’ experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. 
 <br><br>Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician. 
  
@@ -28,12 +28,13 @@ Front End Web Developer and graduate from one of Europe's leading coding boot ca
 
 | Organisation | Project | Link (no https:// or www.) |
 |-----------|--------------|----------|
+|Personal|Personal Website|https://www.stevedawes.herokuapp.com|
 |Deep Blue Sky|Legal Referral Company|legalreferralcompany.com.bruce.face.deepbluesky.com/|
 |Deep Blue Sky|Bath Digital Festival|bathdigitalfestival.co.uk.jake.face.deepbluesky.com/|
 |Deep Blue Sky|Saint Stephen's Church|ststephensbath.org.uk.jake.face.deepbluesky.com/|
 |Makers Academy|Final Course Project|https://youtu.be/a4NPua1kmD0|
 
-:closed_book: Current reading list: JavaScript and JQuery: The Missing Manual - David Sawyer. Head First Design Patterns - Eric Freeman.
+:closed_book: Current reading list: JavaScript and JQuery: The Missing Manual - David Sawyer.
 
 
 #### PROJECT MANAGEMENT
