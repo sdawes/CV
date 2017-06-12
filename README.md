@@ -1,5 +1,5 @@
 ## Stephen Dawes BMus (HONS)
-:art: [Personal Portfolio (built in node.js)](stevedawes.herokuapp.com)<br>
+:art: [Personal Portfolio (built in node.js)](https://stevedawes.herokuapp.com)<br>
 :mortar_board: [LinkedIn Profile](https://www.linkedin.com/in/srdawes "LinkedIn Profile")<br>
 :bird: [Twitter Profile](https://twitter.com/stephenrdawes)
 
@@ -28,7 +28,7 @@ Junior Web Developer and graduate from one of Europe's leading coding boot camps
 
 | Organisation | Project | Link (no https:// or www.) |
 |-----------|--------------|----------|
-|Personal|Personal Website|stevedawes.herokuapp.com|
+|Personal|Personal Website|https://stevedawes.herokuapp.com|
 |Deep Blue Sky|Legal Referral Company|legalreferralcompany.com.bruce.face.deepbluesky.com/|
 |Deep Blue Sky|Bath Digital Festival|bathdigitalfestival.co.uk.jake.face.deepbluesky.com/|
 |Deep Blue Sky|Saint Stephen's Church|ststephensbath.org.uk.jake.face.deepbluesky.com/|
