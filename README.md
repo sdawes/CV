@@ -7,8 +7,8 @@
 
 <a name="profile"><a>
 ### **SUMMARY**
-Junior Web Developer and graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in HTML, CSS, SASS, JavaScript and Ruby. 
- <br><br>Previously a Commissioned Officer in the Royal Air Force with over 12 years’ experience specialising in Operations and Project Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. 
+Web Developer and graduate from one of Europe's leading coding boot camps, specialising in writing TDD web applications in HTML, CSS, SASS, JavaScript and Ruby. 
+ <br><br>Previously a Commissioned Officer in the Royal Air Force with over 12 years’ experience specialising in Project and Operations Management. Demonstrated capability to undertake wide range of complex positions working within a high pressured environment. 
 <br><br>Decided to change careers to re-embrace creative and technical side, learn long lasting technical skills and create new challenges and opportunities for the future. An active participant in the local tech community in home town of Bristol and enthusiastic musician. 
  
 
@@ -38,7 +38,7 @@ Junior Web Developer and graduate from one of Europe's leading coding boot camps
 
 
 #### PROJECT MANAGEMENT
-###### PRINCE 2 and APMP Qualified Project Manager. Experience in implementing Agile best practices and methodologies.
+###### AGILE, PRINCE 2 and APMP Qualified Project Manager. Experience in implementing Agile best practices and methodologies.
 * Awarded the 2011 Defence Surveyor's Association Outstanding Contribution to Air Cartography. Identified and project managed a complex 200K Management Information System to deliver a number of key business objectives. This led to a 50% reduction in waste material, saving cira £500K per year for Defence.
 
 * Planned and project managed a large scale emergency response exercise at RAF Ascension Island, to enable accreditation under the Major Accident and Control Regulations framework. Facilitated a multi agency full scale crash exercise to test the response of the joint US/UK emergency services, inter governmental agencies and joint civilian and military staff.
@@ -75,7 +75,7 @@ Junior Web Developer and graduate from one of Europe's leading coding boot camps
 |--------------|-------------------------|
 |Makers Academy| Ruby, Rails, JavaScript, TDD, OOP, ActiveRecord, node.js, Agile PM|
 |City of Bristol College| Level 3, Advanced Web Development|
-|APMG Project Management|APMP, PRINCE 2|
+|APMG Project Management|APMP, PRINCE 2, AGILE|
 |Royal Air Force|RAF Officer Training, RAF Flight Operations Training, Civilian Management Trg, Staff Interview and Selection Trg, Air Safety Management, Emergency Response Planning, Air Electronic Warfare, Operational Targeting, Health and Safety, First Aid|
 |Royal Northern College of Music |BMus (HONS) 2:1 Degree
 |Kennet School|A Levels, Music (B), Physics (C), Maths (C) and 7 A / 2 B Grade GCSEs|
