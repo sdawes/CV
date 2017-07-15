@@ -29,9 +29,9 @@ Web Developer and graduate from one of Europe's leading coding boot camps, speci
 | Organisation | Project | Link (no https:// or www.) |
 |-----------|--------------|----------|
 |Personal|Personal Website|https://stevedawes.herokuapp.com|
-|Deep Blue Sky|Legal Referral Company|legalreferralcompany.com.bruce.face.deepbluesky.com/|
-|Deep Blue Sky|Bath Digital Festival|bathdigitalfestival.co.uk.jake.face.deepbluesky.com/|
-|Deep Blue Sky|Saint Stephen's Church|ststephensbath.org.uk.jake.face.deepbluesky.com/|
+|Deep Blue Sky|Legal Referral Company|legalreferralcompany.com/|
+|Deep Blue Sky|Bath Digital Festival|bathdigitalfestival.co.uk/|
+|Deep Blue Sky|Saint Stephen's Church|ststephensbath.org.uk/|
 |Makers Academy|Final Course Project|https://youtu.be/a4NPua1kmD0|
 
 :closed_book: Current reading list: JavaScript and JQuery: The Missing Manual - David Sawyer.
